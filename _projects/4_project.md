@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title:Effects of Harmonics in Alignment With BERT Music Source Seperation and HPTSM 
+description: Research Paper Done by Jonathan and Daniel; Submitting to ISMIR 2024
 img:
-importance: 3
-category: fun
+importance: 2
+category: research
+
 ---
 
 Every project has a beautiful feature showcase page.
