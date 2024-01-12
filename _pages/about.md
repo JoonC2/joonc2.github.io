@@ -25,7 +25,7 @@ This website currently includes my research paper and I am planning on adding mo
 <br><br>
 Click Projects on the Top Right Corner to see my Research Projects. 
 <br><br>
-<u>Or Click this Link:</u> [Research Paper](http://127.0.0.1:4000/projects/1_project/)
+<u>Or Click this Link:</u> [Research Paper](https://joonc2.github.io/projects/1_project/)
 
 
 
